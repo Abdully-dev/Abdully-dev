@@ -10,7 +10,7 @@ I build backend systems and offline AI tools, and design transistor-level RF cir
 
 **Backend & APIs**
 
-![Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git)
+![Skills](https://skillicons.dev/icons?i=python,html,css,javascript,fastapi,postgres,docker,git)
 
 **AI / ML**
 - RAG pipelines (retrieval-augmented generation)
@@ -56,5 +56,5 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 ## 📫 Connect
 
 - GitHub: [Abdully-dev](https://github.com/Abdully-dev)
-- Email: your-email@example.com
+- Email: seniorkalima194@gmail.com
 - LinkedIn: your-linkedin-url
