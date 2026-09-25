@@ -60,6 +60,14 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 - WhatsApp: [Chat on WhatsApp](https://wa.me/255706075287)
 - LinkedIn: [Abdulsalam Kalima](https://www.linkedin.com/in/abdulsalam-kalima-45a75a429/)
 
+
+
+
+![Space Shooter](game.gif)
+![My Breaths per second](https://github-readme-activity-graph.vercel.app/graph?username=Abdully-dev\&custom_title=Real%20Contribution%20Graph\&bg_color=0d1017\&color=e8edf3\&line=e8edf3\&point=e8edf3\&area_color=FFFFFF\&title_color=FFFFFF\&area=true\&hide_border=true)
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdully-dev&show_icons=true&hide_border=true)
 
 ## Contribution game
