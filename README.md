@@ -64,7 +64,7 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 
 
 ![Space Shooter](game.gif)
-![My Breaths per second](https://github-readme-activity-graph.vercel.app/graph?username=Abdully-dev\&custom_title=Real%20Contribution%20Graph\&bg_color=0d1017\&color=e8edf3\&line=e8edf3\&point=e8edf3\&area_color=FFFFFF\&title_color=FFFFFF\&area=true\&hide_border=true)
+![My life time](https://github-readme-activity-graph.vercel.app/graph?username=Abdully-dev\&custom_title=Real%20Contribution%20Graph\&bg_color=0d1017\&color=e8edf3\&line=e8edf3\&point=e8edf3\&area_color=FFFFFF\&title_color=FFFFFF\&area=true\&hide_border=true)
 
 
 
