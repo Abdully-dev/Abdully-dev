@@ -4,7 +4,7 @@
 
 I build backend systems and offline AI tools, and design transistor-level RF circuits on the side. Most profiles pick one lane — I work both, and that combination is the throughline of what's below.
 
----
+--- 
 
 ## 🛠 Tech Stack
 
