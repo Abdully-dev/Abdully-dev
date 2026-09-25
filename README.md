@@ -52,7 +52,13 @@ FastAPI + PostgreSQL backend built module-by-module (config, security, database,
 Building out the embeddings / vector-indexing module for the offline RAG chatbot — batch embedding and ChromaDB storage via `scripts/build_index.py`.
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdully-dev&show_icons=true&hide_border=true)
 
+## Contribution game
+
+![My GitHub Game](game.gif)
+
+---
 ## 📫 Connect
 
 - GitHub: [Abdully-dev](https://github.com/Abdully-dev)
@@ -61,11 +67,6 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 - LinkedIn: [Abdulsalam Kalima](https://www.linkedin.com/in/abdulsalam-kalima-45a75a429/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdully-dev&show_icons=true&hide_border=true)
-
-## Contribution game
-
-![My GitHub Game](game.gif)
 
 
 ![Space Shooter](example.gif)
