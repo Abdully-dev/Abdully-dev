@@ -60,5 +60,10 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 - WhatsApp: [Chat on WhatsApp](https://wa.me/255706075287)
 - LinkedIn: [Abdulsalam Kalima](https://www.linkedin.com/in/abdulsalam-kalima-45a75a429/)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdully-dev&show_icons=true&hide_border=true)
+
+## Contribution game
+
+![My GitHub Game](game.gif)
 ## Contributing game
 ![My Github Game](game.gif)
