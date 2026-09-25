@@ -65,5 +65,3 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 ## Contribution game
 
 ![My GitHub Game](game.gif)
-## Contributing game
-![My Github Game](game.gif)
