@@ -59,3 +59,6 @@ Building out the embeddings / vector-indexing module for the offline RAG chatbot
 - Email: (seniorkalima194@gmail.com)
 - WhatsApp: [Chat on WhatsApp](https://wa.me/255706075287)
 - LinkedIn: [Abdulsalam Kalima](https://www.linkedin.com/in/abdulsalam-kalima-45a75a429/)
+
+## Contributing game
+![My Github Game](game.gif)
