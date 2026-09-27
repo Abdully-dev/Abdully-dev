@@ -1,6 +1,9 @@
-# Hi, I'm Abdully 👋
-
-**Software Developer — Backend & AI Systems | Electronics Enthusiast (RF & Circuit Design)**
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=900&height=110&lines=Hi%2C+I'm+Abdully+%F0%9F%91%8B;Software+Developer+%7C+Backend+%26+AI+Systems;Electronics+Enthusiast+%7C+RF+%26+Circuit+Design"
+    alt="Abdully - Software Developer and Electronics Enthusiast"
+  />
+</p>
 
 I build backend systems and offline AI tools, and design transistor-level RF circuits on the side. Most profiles pick one lane — I work both, and that combination is the throughline of what's below.
 
