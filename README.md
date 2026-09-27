@@ -1,4 +1,4 @@
-# Hi! Am Abdully, a software developer and super hero <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b84d218f-1f45-4201-bc71-81d30d8c7ea9" />
+# Hi! Am Abdully 👋, a software developer and super hero <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b84d218f-1f45-4201-bc71-81d30d8c7ea9" />
 
 ---
 
